@@ -1,9 +1,0 @@
-streamlit
---extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.0.1+cpu
-h5py
-numpy
-matplotlib
-scipy
-gdown
-scikit-learn
