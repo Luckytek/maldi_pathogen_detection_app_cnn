@@ -1,0 +1,8 @@
+streamlit
+torch==2.0.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+h5py
+numpy
+matplotlib
+scipy
+gdown
+scikit-learn
